@@ -9,23 +9,16 @@
     <nav class="navbar navbar-expand-lg navbar-dark bg-dark mb-4">
         <div class="container">
             <a class="navbar-brand" href="/">Mi Sitio</a>
-            <div class="collapse navbar-collapse">
-                <ul class="navbar-nav">
-                    <li class="nav-item"><a class="nav-link" href="/inicio">Inicio</a></li>
-                    <li class="nav-item"><a class="nav-link" href="/lenguaje">Mi lenguaje favorito</a></li>
-                    <li class="nav-item"><a class="nav-link" href="/contacto">Contactar</a></li>
-                </ul>
-            </div>
         </div>
     </nav>
 
     <div class="container">
-        <h1 class="mb-4">Bienvenido a la tarea de Laravel</h1>
+        <h1 class="mb-4">Laboratotio</h1>
         <p>Esta página demuestra una aplicación básica con rutas, vistas, validación de formularios y uso de Bootstrap.</p>
         <ul>
-            <li><strong>Inicio:</strong> Información de perfil personal</li>
-            <li><strong>Mi lenguaje favorito:</strong> Lenguajes de programación preferidos</li>
-            <li><strong>Contactar:</strong> Formulario con validaciones (correo, teléfono, DUI)</li>
+            <li><strong>Inicio:</strong> Soy estuidnate de la ues</li>
+            <li><strong>Mi lenguaje favorito:</strong> PHP</li>
+            <li><strong>Contactar:</strong> <li class="nav-item"><a class="nav-link" href="/lenguaje">Mi lenguaje favorito</a></li></li>
         </ul>
     </div>
 </body>
