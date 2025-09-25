@@ -9,13 +9,6 @@
     <nav class="navbar navbar-expand-lg navbar-dark bg-dark mb-4">
         <div class="container">
             <a class="navbar-brand" href="/">Mi Sitio</a>
-            <div class="collapse navbar-collapse">
-                <ul class="navbar-nav">
-                    <li class="nav-item"><a class="nav-link" href="/inicio">Inicio</a></li>
-                    <li class="nav-item"><a class="nav-link" href="/lenguaje">Mi lenguaje favorito</a></li>
-                    <li class="nav-item"><a class="nav-link" href="contactos">Contactar</a></li>
-                </ul>
-            </div>
         </div>
     </nav>
 
